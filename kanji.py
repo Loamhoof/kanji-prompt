@@ -37,7 +37,7 @@ def dump(thing):
 
 
 def find(criteria, haystack):
-    return next(iter(needle for needle in haystack if criteria(needle)), None)
+    return next((needle for needle in haystack if criteria(needle)), None)
 
 
 def init(_):
