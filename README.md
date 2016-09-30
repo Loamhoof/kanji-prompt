@@ -1,5 +1,5 @@
-# kanji-ps1
-Using my PS1 as a tool to review my kanjis
+# kanji-prompt
+Using my prompt as a tool to review my kanjis
 
 Example
 -------
